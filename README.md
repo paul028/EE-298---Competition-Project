@@ -8,3 +8,5 @@ University of the Philippines - Diliman Electrical and Electronics Engineering I
 <br> Paul Vincent Nonat
 <br> Paulino Salmon III
 <br> Gerald Ivan Sotelo
+
+<br> Other trial models created can be found on this [repository](https://github.com/paul028/MachineLearningWithaHeart).
