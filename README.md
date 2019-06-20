@@ -17,7 +17,10 @@ The dataset used in this project is the
 ![alt text](https://github.com/paul028/Group6_competitionproject/blob/master/data.png)
 
 # Model
+<br>
 [Jupyter Notebook](https://github.com/paul028/Group6_competitionproject/blob/master/model7.ipynb)
+<br>
+<br>
 ![alt text](https://github.com/paul028/Group6_competitionproject/blob/master/model.PNG)
 
 # Result
