@@ -18,7 +18,7 @@ The dataset used in this project is the
 
 # Model
 [Jupyter Notebook](https://github.com/paul028/Group6_competitionproject/blob/master/model7.ipynb)
-![alt text](https://github.com/paul028/Group6_competitionproject/blob/master/model.png)
+![alt text](https://github.com/paul028/Group6_competitionproject/blob/master/model.PNG)
 
 # Result
 
